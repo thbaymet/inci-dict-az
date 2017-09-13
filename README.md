@@ -1,4 +1,4 @@
-# Inci Azərbaycan dilində lüğətlər toplusu
+# İnci Azərbaycan dilində lüğətlər toplusu
 
 ### Haqqında/About
 Bu proyekt azərbaycan dilində bir sıra lüğətləri özündə cəmləşdirir. Lüğətlər *sources* dosyasında toplanmışdır. 
