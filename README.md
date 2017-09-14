@@ -8,14 +8,19 @@ Aa, Bb, Cc, Çç, Dd, Ee, Əə, Ff, Gg, Ğğ, Hh, Xx, Iı, İi, Jj, Kk, Qq, Ll, 
 
 ### Data-warehouse
 Data-warehouse dosyasında muxtəlif qaynaqlardan eldə edilmiş azərbaycan dilində məqalələr, kitablar, vs. vardır. Hər biri ayrı-ayrı dosyalarda yerləşdirilmişdir. Bir qaynaqdan götürülən məqalələr tək faylda birləşdirildiyi üçün faylların həcmi çoxdur.
+Məqalələrin içində digər mənbələrdən sitatlar gətirildiyi üçün digər dillərdə də sözlər mövcuddur.
 
 #### Anspress-az məqalələri
-Bu dosyada anspress.az saytından götürülmüş məqalələr yer almaqdadır. Təqribən 850 məqalə eldə edilmişdir. Məqalələrin içində digər mənbələrdən sitatlar gətirildiyi üçün digər dillərdə də sözlər mövcuddur.
+Bu dosyada anspress.az saytından götürülmüş məqalələr yer almaqdadır. Təqribən 850 məqalə eldə edilmişdir. 
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları anspress.az saytına aiddir.
 
 #### Azadliq-org məqalələri 
-Bu dosyada azadliq.org saytından götürülmüş məqalələr yer almaqdadır. Təqribən 550 məqalə eldə edilmişdir. Məqalələrin içində digər mənbələrdən sitatlar gətirildiyi üçün digər dillərdə də sözlər mövcuddur.
+Bu dosyada azadliq.org saytından götürülmüş məqalələr yer almaqdadır. Təqribən 550 məqalə eldə edilmişdir.
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları azadliq.org saytına aiddir.
+
+#### Milli-az məqalələri
+Bu dosyada milli.az saytından götürülmüş məqalələr yer almaqdadır. Təqribən 625 məqalə eldə edilmişdir.
+Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları milli.az saytına aiddir.
 
 ### Köməklik/Help
 Bu proyektə öz köməkliyinizi göstərə bilərsiniz.
