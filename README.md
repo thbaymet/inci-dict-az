@@ -13,17 +13,11 @@ Məqalələrin içində digər mənbələrdən və digər dillərdən də sözl�
 ### Internet saytlari
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytlara aiddir.
 
-#### Anspress-az məqalələri
-Bu dosyada *anspress.az* saytından götürülmüş məqalələr yer almaqdadır. Təqribən 850 məqalə eldə edilmişdir.
+- **Anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə yer almaqdadır.
+- **Azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə yer almaqdadır.
+- **Milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə yer almaqdadır.
+- **Azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə yer almaqdadır.
 
-#### Azadliq-org məqalələri 
-Bu dosyada *azadliq.org* saytından götürülmüş məqalələr yer almaqdadır. Təqribən 550 məqalə eldə edilmişdir.
-
-#### Milli-az məqalələri
-Bu dosyada *milli.az* saytından götürülmüş məqalələr yer almaqdadır. Təqribən 625 məqalə eldə edilmişdir.
-
-#### Azadliq-az məqalələri
-Bu dosyada *azadliq.az* saytından götürülmüş məqalələr yer almaqdadır, təqribən 365 məqalə eldə edilmişdir.
 
 ### Köməklik/Help
 Bu proyektə öz köməkliyinizi göstərə bilərsiniz.
