@@ -20,6 +20,8 @@ Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytl
 - **Milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə vardır.
 - **Azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə vardır.
 - **Mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
+- **President-az** - *president.az* saytından götürülmüş təqribən 173 məqalə yer almaqdadır.
+
 
 ### Köməklik/Help
 Bu proyektə öz köməkliyinizi göstərə bilərsiniz.
