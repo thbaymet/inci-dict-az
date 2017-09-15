@@ -15,12 +15,15 @@ Məqalələrin içində digər mənbələrdən və digər dillərdən də sözl�
 ### Internet saytları
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytlara aiddir.
 
-- **Anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə vardır.
-- **Azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə vardır.
-- **Milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə vardır.
-- **Azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə vardır.
-- **Mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
-- **President-az** - *president.az* saytından götürülmüş təqribən 173 məqalə yer almaqdadır.
+- **anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə vardır.
+- **azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə vardır.
+- **milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə vardır.
+- **azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə vardır.
+- **mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
+- **president-az** - *president.az* saytından götürülmüş təqribən 173 məqalə yer almaqdadır.
+- **m.apa.az** - *m.apa.az* saytından götürülmüş təqribən 437 məqalə yer almaqdadır.
+
+
 
 
 ### Köməklik/Help
