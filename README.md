@@ -22,8 +22,7 @@ Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytl
 - **mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
 - **president-az** - *president.az* saytından götürülmüş təqribən 173 məqalə yer almaqdadır.
 - **m.apa.az** - *m.apa.az* saytından götürülmüş təqribən 437 məqalə yer almaqdadır.
-
-
+- **azertag.az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə yer almaqdadır.
 
 
 ### Köməklik/Help
