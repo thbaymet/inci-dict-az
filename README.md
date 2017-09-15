@@ -17,7 +17,7 @@ Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytl
 - **Azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə vardır.
 - **Milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə vardır.
 - **Azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə vardır.
-
+- **Mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
 
 ### Köməklik/Help
 Bu proyektə öz köməkliyinizi göstərə bilərsiniz.
