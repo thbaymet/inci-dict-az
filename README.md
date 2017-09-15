@@ -1,16 +1,17 @@
-# İnci Azərbaycan dilində lüğətlər toplusu
+# İnci
 
 ## Haqqında/About
 Bu proyektdə azərbaycan dilində dərc edilmiş müxtəlif lüğətlər, məqalələr, bədii əsərlər, tərcümə olunmuş romanlar, dərsliklər, vs. toplanmışdır.
 
 ### Əlifba/Alphabet
+Azərbaycan dili əlifbası aşagıdakı hərflərdən ibarətdir.
 Aa, Bb, Cc, Çç, Dd, Ee, Əə, Ff, Gg, Ğğ, Hh, Xx, Iı, İi, Jj, Kk, Qq, Ll, Mm, Nn, Oo, Öö, Pp, Rr, Ss, Şş, Tt, Uu, Üü, Vv, Yy, Zz
 
 ## Data-warehouse
 Data-warehouse dosyasında müxtəlif qaynaqlardan əldə edilmiş azərbaycan dilində məqalələr, kitablar, vs. vardır. Hər biri ayrı-ayrı dosyalarda yerləşdirilmişdir. Bir qaynaqdan götürülən məqalələr tək faylda birləşdirildiyi üçün faylların həcmi çoxdur.
 Məqalələrin içində digər mənbələrdən və digər dillərdən də sözlər mövcuddur.
 
-### Internet saytlari
+### Internet saytları
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytlara aiddir.
 
 - **Anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə vardır.
