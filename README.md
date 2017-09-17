@@ -15,14 +15,16 @@ Məqalələrin içində digər mənbələrdən və digər dillərdən də sözl�
 ### Internet saytları
 Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytlara aiddir.
 
-- **anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə vardır.
-- **azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə vardır.
-- **milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə vardır.
-- **azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə vardır.
-- **mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə yer almaqdadır.
-- **president-az** - *president.az* saytından götürülmüş təqribən 173 məqalə yer almaqdadır.
-- **m.apa.az** - *m.apa.az* saytından götürülmüş təqribən 437 məqalə yer almaqdadır.
-- **azertag.az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə yer almaqdadır.
+- **anspress-az** - *anspress.az* saytından götürülmüş təqribən 850 məqalə
+- **apa-az** - *m.apa.az* saytından götürülmüş təqribən 437 məqalə
+- **azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə
+- **azadliq-info** - *azadliq.info* saytından götürülmüş təqribən 409 məqalə
+- **azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə
+- **azertag.az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə
+- **bbc-com-azeri** - *bbc.com/azeri/* saytından götürülmüş təqribən 790 məqalə
+- **milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə
+- **mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə
+- **president-az** - *president.az* saytından götürülmüş təqribən 173 məqalə vardır.
 
 
 ### Köməklik/Help
