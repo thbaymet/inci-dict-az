@@ -23,7 +23,7 @@ Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytl
 - **azertag.az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə
 - **bbc-com-azeri** - *bbc.com/azeri/* saytından götürülmüş təqribən 790 məqalə
 - **milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə
-- **mətbuat-az** - *mətbuat.az* saytından götürülmüş təqribən 540 məqalə
+- **metbuat-az** - *metbuat.az* saytından götürülmüş təqribən 540 məqalə
 - **president-az** - *president.az* saytından götürülmüş təqribən 173 məqalə vardır.
 
 
