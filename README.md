@@ -20,7 +20,7 @@ Bu məqalələrin heç birinə toxunulmamışdır. Bütün haqqları hemin saytl
 - **azadliq-az** - *azadliq.az* saytından götürülmüş təqribən 365 məqalə
 - **azadliq-info** - *azadliq.info* saytından götürülmüş təqribən 409 məqalə
 - **azadliq-org** - *azadliq.az* saytından götürülmüş təqribən 550 məqalə
-- **azertag.az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə
+- **azertag-az** - *azertag.az* saytından götürülmüş təqribən 837 məqalə
 - **bbc-com-azeri** - *bbc.com/azeri/* saytından götürülmüş təqribən 790 məqalə
 - **milli-az** - *milli.az* saytından götürülmüş təqribən 625 məqalə
 - **metbuat-az** - *metbuat.az* saytından götürülmüş təqribən 540 məqalə
